@@ -35,9 +35,7 @@ dependencies {
     implementation project(':vitamio')
 
     /**
-     * Crash reporting lib
+     * To play GIF 
      */
-    compile files('libs/acra-4.5.0.jar')
-
     implementation 'com.koushikdutta.ion:ion:2.2.1'
 }
