@@ -1,0 +1,18 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="io.vov.vitamio"
+          android:versionCode="400"
+          android:versionName="4.0">
+
+    <!--current version is
+    5.2.3 - https://github.com/yixia/VitamioBundleStudio
+    4.2.1 - https://github.com/yixia/VitamioBundle -->
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    
+    <application>
+        <service android:name = "io.vov.vitamio.activity.InitActivity" />
+    </application>
+
+</manifest>

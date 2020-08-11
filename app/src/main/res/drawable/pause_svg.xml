@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="400dp"
+    android:viewportHeight="400"
+    android:viewportWidth="400">
+
+    <path
+        android:fillColor="#ffffff"
+        android:fillType="evenOdd"
+        android:pathData="M200,400 C310.45695,400 400,310.45695 400,200 C400,89.54305 310.45695,0 200,0 C89.54305,0 0,89.54305 0,200 C0,310.45695 89.54305,400 200,400 Z"
+        android:strokeWidth="1" />
+    <path
+        android:fillColor="?colorPrimary"
+        android:fillType="evenOdd"
+        android:pathData="M 128 90 L 172 90 Q 180 90 180 98 L 180 302 Q 180 310 172 310 L 128 310 Q 120 310 120 302 L 120 98 Q 120 90 128 90 Z"
+        android:strokeWidth="1" />
+    <path
+        android:fillColor="?colorPrimary"
+        android:fillType="evenOdd"
+        android:pathData="M 128 90 L 172 90 Q 180 90 180 98 L 180 302 Q 180 310 172 310 L 128 310 Q 120 310 120 302 L 120 98 Q 120 90 128 90 Z"
+        android:strokeWidth="1" />
+    <path
+        android:fillColor="?colorPrimary"
+        android:fillType="evenOdd"
+        android:pathData="M 128 90 L 172 90 Q 180 90 180 98 L 180 302 Q 180 310 172 310 L 128 310 Q 120 310 120 302 L 120 98 Q 120 90 128 90 Z"
+        android:strokeWidth="1" />
+    <path
+        android:fillColor="?colorPrimary"
+        android:fillType="evenOdd"
+        android:pathData="M 228 90 L 272 90 Q 280 90 280 98 L 280 302 Q 280 310 272 310 L 228 310 Q 220 310 220 302 L 220 98 Q 220 90 228 90 Z"
+        android:strokeWidth="1" />
+    <path
+        android:fillColor="?colorPrimary"
+        android:fillType="evenOdd"
+        android:pathData="M 228 90 L 272 90 Q 280 90 280 98 L 280 302 Q 280 310 272 310 L 228 310 Q 220 310 220 302 L 220 98 Q 220 90 228 90 Z"
+        android:strokeWidth="1" />
+    <path
+        android:fillColor="?colorPrimary"
+        android:fillType="evenOdd"
+        android:pathData="M 228 90 L 272 90 Q 280 90 280 98 L 280 302 Q 280 310 272 310 L 228 310 Q 220 310 220 302 L 220 98 Q 220 90 228 90 Z"
+        android:strokeWidth="1" />
+</vector>
